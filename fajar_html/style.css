@@ -1,0 +1,17 @@
+body {
+  background-color: #ffeef8;
+  text-align: center;
+  font-family: sans-serif;
+}
+.judul {
+  color: #e91e63;
+  font-size: 2.5em;
+}
+#btnSayang {
+  background: #f06292;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
